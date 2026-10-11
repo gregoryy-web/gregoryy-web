@@ -1,7 +1,6 @@
-<!-- ===== BANNER ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hello%2C%20I'm%20Neil Gregory Escleto&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Learner%20%7C%20Builder&descAlignY=58&descSize=16" width="100%" />
 
-<!-- ===== TYPING ANIMATION ===== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hello%2C%20I%20am%20Neil%20Gregory%20Escleto&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Learner%20%7C%20Builder&descAlignY=58&descSize=16" width="100%" />
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Building+things+for+the+web;Turning+ideas+into+code;Always+learning+something+new" alt="Typing SVG" />
 </div>
@@ -10,8 +9,8 @@
 
 <p align="center">
   <a href="https://github.com/gregoryy-web"><img src="https://img.shields.io/badge/GitHub-gregoryy--web-181717?style=for-the-badge&logo=github" /></a>
-  <a href="mailto:your@neilgregorycescleto.14@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="linkedin.com/in/neil-gregory-escleto-258849404"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=neilgregorycescleto.14@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/neil-gregory-escleto-258849404"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
@@ -22,6 +21,7 @@
 const me = {
   name: "Neil Gregory Escleto",
   role: "Aspiring Web Developer",
+  school: "Polytechnic University of the Philippines",
   location: "Philippines 🇵🇭",
   currentlyLearning: ["JavaScript", "React", "Git & GitHub"],
   funFact: "I'm a hardworking individual",
@@ -61,9 +61,9 @@ const me = {
 
 | Project | Description | Tech |
 |---|---|---|
-| [**Project One**](https://github.com/gregoryy-web) | Short description of what it does | `HTML` `CSS` `JS` |
-| [**Project Two**](https://github.com/gregoryy-web) | Short description of what it does | `React` |
-| [**Portfolio**](https://github.com/gregoryy-web) | My personal website | `HTML` `CSS` |
+| [**My Portfolio**](https://gregoryy-web.github.io/) | My personal portfolio | `HTML` `CSS` `JS` |
+| [**API Based Website**](https://gregoryy-web.github.io/Midterm/) | API web project | `JS` `API` |
+| [**Artovia**](https://github.com/mizushino1/finals-project) | Collaborated Final Project | `HTML` `CSS` |
 
 ---
 
