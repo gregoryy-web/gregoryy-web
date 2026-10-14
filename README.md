@@ -1,15 +1,5 @@
 
 
-##  Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,bootstrap,github,vscode&perline=8" />
-
-</div>
-
-<br/>
-
 ## GitHub Stats
 
 <div align="center">
@@ -22,3 +12,15 @@
 <img src="https://streak-stats.demolab.com/?user=gregoryy-web&theme=radical&hide_border=true&border_radius=14" />
 
 </div>
+
+
+
+##  Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,bootstrap,github,vscode&perline=8" />
+
+</div>
+
+<br/>
