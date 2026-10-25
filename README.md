@@ -14,13 +14,3 @@
 </div>
 
 
-
-##  Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,bootstrap,github,vscode&perline=8" />
-
-</div>
-
-<br/>
