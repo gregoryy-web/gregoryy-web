@@ -8,9 +8,6 @@
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregoryy-web&layout=donut-vertical&theme=radical&hide_border=true&border_radius=14" />
 
 <br/>
-
-<img src="https://streak-stats.demolab.com/?user=gregoryy-web&theme=radical&hide_border=true&border_radius=14" />
-
 </div>
 
 
