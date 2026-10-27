@@ -1,13 +1,11 @@
-
-
 ## GitHub Stats
 
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=gregoryy-web&show_icons=true&theme=radical&hide_border=true&border_radius=14" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregoryy-web&layout=donut-vertical&theme=radical&hide_border=true&border_radius=14" />
+<br/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=gregoryy-web&theme=radical&hide_border=true&border_radius=14" alt="GitHub Streak" />
 
 <br/>
 </div>
-
-
